@@ -2,7 +2,7 @@
 
 The following repository aims to reproduce [Fomantic UI #811](https://github.com/fomantic/Fomantic-UI/issues/811).
 
-To reproduce the issue, simply run `yarn install --frozen-lockfile`. The same issue happens when running this command both in the root of this repo, and in <./packages/reproduction/>.
+To reproduce the issue, simply run `yarn install --frozen-lockfile`. The same issue happens when running this command both in the root of this repo, and in [packages/reproduction](./packages/reproduction).
 
 ## Tested tool versions
 
