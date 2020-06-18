@@ -1,0 +1,8 @@
+{
+  "name": "reproduction",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "fomantic-ui": "^2.8.6"
+  }
+}
